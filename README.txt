@@ -88,3 +88,6 @@ Cosh terminal - shift + ctrl+t
  
 chrome://serviceworker-internals/ 
 
+https://docs.google.com/document/d/1sgC0ADkCZnb6yViUYuqt1zyR7gdERMFJovSb_svO4VU/edit?tab=t.0#heading=h.sdzuw0u781k5
+
+
