@@ -118,10 +118,11 @@ Cosh terminal - shift + ctrl+t
 chrome://serviceworker-internals/ - internals of the service worker 
 I don't know 
 
-https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768 - windows 2000 emulator
+https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768 - Windows 2000 emulator
 
 
 https://unblockedgamesg.net/ 
+https://sites.google.com/view/fractions-are-cool - fraction tools, simplify and multiply fraction calculator.
 https://sites.google.com/view/classroom6x 
 https://node-classroom.strangled.net/ - chatroom???  nvm it broke 
 https://sites.google.com/view/drive-u-7-home/home
