@@ -118,6 +118,7 @@ Cosh terminal - shift + ctrl+t
 chrome://serviceworker-internals/ - internals of the service worker 
 I don't know 
 
+https://bellard.org/jslinux/vm.html?url=win2k.cfg&mem=192&graphic=1&w=1024&h=768 - windows 2000 emulator
 
 
 https://unblockedgamesg.net/ 
