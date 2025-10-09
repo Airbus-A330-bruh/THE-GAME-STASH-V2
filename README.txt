@@ -7,7 +7,7 @@ Made by  epalaios@student.ccaeagles.org
 
 
 
-Don’t mess anything up; just use the links and add more as needed.
+Don’t mess anything up; use the links and add more as needed.
 
 Guys, I have some news 
 https://www.documentcloud.org/documents/6250471-Epstein-Docs/.
@@ -24,16 +24,15 @@ Airplane G@me - works sometimes, idk.
 
 Pizza Edition - prolly never gonna get blocked bruh
 
-Bear  - most games are blocked.   All games are blocked.
-
-h@cks and pr0xys. This is good, don't let it get blocked, it has op some options
+ ost games are blocked.   All games are blocked.
+https://sites.google.com/view/sunsetlearninn/hacks/clear-cookies This is good, don't let it get blocked, it has op some options
  Rammers 6, 8, and 9 work. 
 
 source code viewer  - can't get blocked, not a game 
 
 https://sites.google.com/view/sirpotatoesmathclass/home - British lad.
 
-Russian g@me website- also not blocked yet somehow  
+https://yandex.com/games/ -  also not blocked yet somehow  
 
 https://linktracker.thepizzaedition.workers.dev/api/links - more links to pizzas
 
